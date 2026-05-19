@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-label="Abstract microservices architecture">
+  <rect width="720" height="360" fill="#fff6e5"/>
+  <g fill="#ffffff" stroke="#dfc889" stroke-width="3">
+    <rect x="76" y="78" width="150" height="86" rx="14"/>
+    <rect x="285" y="78" width="150" height="86" rx="14"/>
+    <rect x="494" y="78" width="150" height="86" rx="14"/>
+    <rect x="180" y="218" width="150" height="86" rx="14"/>
+    <rect x="390" y="218" width="150" height="86" rx="14"/>
+  </g>
+  <g stroke="#2f8a61" stroke-width="8" stroke-linecap="round">
+    <path d="M226 121h59"/>
+    <path d="M435 121h59"/>
+    <path d="M360 164 255 218"/>
+    <path d="M360 164 465 218"/>
+  </g>
+  <g fill="#2f8a61">
+    <circle cx="151" cy="121" r="18"/>
+    <circle cx="360" cy="121" r="18"/>
+    <circle cx="569" cy="121" r="18"/>
+    <circle cx="255" cy="261" r="18"/>
+    <circle cx="465" cy="261" r="18"/>
+  </g>
+</svg>
